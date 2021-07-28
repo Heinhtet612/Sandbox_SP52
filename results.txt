@@ -1,0 +1,4 @@
+66 is Passable
+4 is Bad
+92 is Excellent
+51 is Passable
